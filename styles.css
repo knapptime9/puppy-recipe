@@ -1,0 +1,24 @@
+header{
+  text-align: center;
+  font-size: 65px;
+  margin-bottom: 45px;
+}
+
+form{
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+input{
+  border: black solid 1px;
+  height: 75px;
+  width: 75%;
+  font-size: 25px;
+}
+
+#resultsContainer{
+  border: 1px solid;
+  height: 900px;
+  width: 900px;
+
+}
